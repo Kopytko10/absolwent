@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c914f342-baec-4388-acb2-86492c5c1900" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/osoby/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/osoby/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/osoby/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/osoby/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/absolwent/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/absolwent/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osoby/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/osoby/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +13,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/osoby/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/absolwent/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1526">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/osoby/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,6 +88,8 @@
         <option value="$PROJECT_DIR$/absolwent/urls.py" />
         <option value="$PROJECT_DIR$/osoby/urls.py" />
         <option value="$PROJECT_DIR$/osoby/views.py" />
+        <option value="$PROJECT_DIR$/absolwent/settings.py" />
+        <option value="$PROJECT_DIR$/osoby/models.py" />
       </list>
     </option>
   </component>
@@ -176,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551796483696</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dodanie widoku test">
+      <created>1551797082813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551797082813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dodanie widoku test">
+      <created>1551797093497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551797093497</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -206,7 +243,8 @@
     <MESSAGE value="dodanie projektu django" />
     <MESSAGE value="dodanie osoby" />
     <MESSAGE value="dodanie absolwent" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodanie absolwent" />
+    <MESSAGE value="dodanie widoku test" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie widoku test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/absolwent/urls.py">
@@ -235,6 +273,30 @@
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/absolwent/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1526">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="382" column="6" selection-start-line="382" selection-start-column="6" selection-end-line="382" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/osoby/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
